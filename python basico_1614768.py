@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+EJERCICIO 1
 # In[40]:
 
 
@@ -10,6 +11,7 @@ matricula= 1614768
 print(x+str(matricula))
 
 
+EJERCICIO 2:
 # In[3]:
 
 
@@ -30,6 +32,8 @@ print ("La division de los dos numeros ingresados es: ", t)
 print ("El resultado del primer numero elevado al segundo como potencia es: ", u)
 
 
+EJERCICIO 3:
+
 # In[5]:
 
 
@@ -44,6 +48,7 @@ for i in range(len(lista)):
     print("La suma de los numeros es:", cont)
     
 
+    EJERCICIO 4:
 
 # In[11]:
 
@@ -59,6 +64,7 @@ else:
     print ("El numero ingresado es impar")
         
 
+        EJERCICIO 5:
 
 # In[39]:
 
@@ -77,7 +83,7 @@ else:
     print()
     print ("El numero ingresado no es primo")
         
-
+EJERCICIO 6:
 
 # In[25]:
 
@@ -135,7 +141,7 @@ def Calculadora():
             
                 
                 
-
+EJERCICIO 7:
 
 # In[28]:
 
@@ -152,6 +158,7 @@ print(type(booleana))
 print(type(compleja))
 
 
+EJERCICIO 8:
 # In[29]:
 
 
@@ -170,6 +177,7 @@ print(x+('hey', 'Tarea', 'Nalle'))
 6 in x
 
 
+EJERCICIO 9:
 # In[34]:
 
 
@@ -219,7 +227,7 @@ print(lista)
             
             
             
-
+EJERCICIO 10:
 
 # In[37]:
 
@@ -244,6 +252,7 @@ diccionario["Alexa"]=6
 print(diccionario)
 
 
+EJERCICIO 11:
 # In[38]:
 
 

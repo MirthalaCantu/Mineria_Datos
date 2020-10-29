@@ -7,4 +7,6 @@
 ##FASE II
 [ANÁLISIS DE BASES DE DATOS] (https://github.com/MirthalaCantu/Mineria_Datos/blob/master/An%C3%A1lisisBD_1614768.pdf)
 [Ejercicios python basico] (https://github.com/MirthalaCantu/Mineria_Datos/blob/master/python%20basico_1614768.py)
+[Avance 1-PIA_8_002] (https://github.com/JavierHdzzz/Mineria_Datos/blob/master/Avance1-PIA_8_002.pdf)
+
 

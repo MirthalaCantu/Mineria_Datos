@@ -24,3 +24,5 @@
 
 [Segundo Avance del PIA]  (https://github.com/JavierHdzzz/Mineria_Datos/blob/master/Avance2_MDatos-checkpoint.ipynb)
 
+[Poster_Final_HOMICIDIOS]    (https://github.com/JavierHdzzz/Mineria_Datos/blob/master/PosterFinal_Homicidios.pdf)
+
